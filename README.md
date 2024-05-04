@@ -6,7 +6,7 @@ It creates a Dataset of TSP instances based on the cities of sweden and then all
 
 ## How to run
 
-1. Load the Anaconda environment in the folder named "environments" to your Anaconda Navigator.
+1. Load the Anaconda .yaml environment in the folder named "environments" to your Anaconda Navigator.
 2. Make sure all the ipynb files have that environment chosen as a kernel.
 3. Get a google API key with your account.
 4. Add the key to a .env file the you create.
