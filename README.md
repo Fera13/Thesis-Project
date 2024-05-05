@@ -4,6 +4,16 @@ This is a thesis project made by Farah Mallah, a DataScience student at Kristian
 
 It creates a Dataset of TSP instances based on the cities of sweden and then allows you to train and use a Machine learning model (Linear Regression) to predict the Tenure of Tabu Search that can give the optimal route when solving TSP.
 
+## Method
+
+- Nearest Neighbor Algorithm for the initial solution.
+- Tabu Search for improving the initial solution.
+- DBSCAN to get graphical data.
+- Lasso Regression to find the strongest features.
+- LinearRegression ML model to predict tenure.
+
+More details on the methods can be found in the thesis paper.
+
 ## How to run
 
 1. Load the Anaconda .yaml environment in the folder named "environments" to your Anaconda Navigator.
@@ -12,6 +22,12 @@ It creates a Dataset of TSP instances based on the cities of sweden and then all
 4. Add the key to a .env file the you create.
 5. Head to create_DS.ipynb and after you decide how many instances you want to create, click RunAll. This will automatically run the other needed files that hold the other needed parts and functions sequentially. The results will be added to the "TSP_instances.csv" Dataset.
 6. Go to predictTenure.ipynb and click RunAll to create the ML model and get the results of training it on the Dataset.
+
+# Results
+
+1. The generated dataset, TSP_instances.csv, can be found inside the datasets folder.
+2. The time calculation results, dataset plots and the dataset information before and after cleaning can be found in the predictTenure.ipynb file.
+3. The results of Cross validation as well as running the ML algorithm on test data can be found in the predictTenure.ipynb file.
 
 # Code Sources and Inspiration
 
