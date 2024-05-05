@@ -21,7 +21,7 @@ It creates a Dataset of TSP instances based on the cities of sweden and then all
 - https://kneed.readthedocs.io/en/stable/parameters.html
 - https://www.kaggle.com/code/tanmaymane18/nearestneighbors-to-find-optimal-eps-in-dbscan
 
-## DBSCAN/ matrices:
+## DBSCAN/ metrics:
 
 - https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html
 - https://geoffboeing.com/2014/08/clustering-to-reduce-spatial-data-set-size/
