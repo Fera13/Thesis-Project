@@ -74,4 +74,5 @@ More details on the methods can be found in the thesis paper.
 
 ## Lasso Regression
 
+- https://developer.ibm.com/tutorials/awb-lasso-regression-automatic-feature-selection/
 - https://www.science.smith.edu/~jcrouser/SDS293/labs/lab10-py.html
