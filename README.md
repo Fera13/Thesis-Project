@@ -71,3 +71,7 @@ More details on the methods can be found in the thesis paper.
 - https://jmsallan.netlify.app/blog/2023-02-03-prompting-chatgpt-to-build-a-tabu-search-algorithm/
 - https://medium.com/@m.kaleia/tabu-search-gentle-introduction-46c479eb6525
 - https://the-algorithms.com/algorithm/tabu-search
+
+## Lasso Regression
+
+- https://www.science.smith.edu/~jcrouser/SDS293/labs/lab10-py.html
